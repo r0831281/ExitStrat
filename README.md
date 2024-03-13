@@ -1,1 +1,1 @@
-"# ExitStrat" 
+# ExitStrat
